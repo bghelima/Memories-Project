@@ -1,0 +1,1 @@
+const light = .33
