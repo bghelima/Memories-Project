@@ -1,1 +1,1 @@
-const light = .33
+const light = .32
