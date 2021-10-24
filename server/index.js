@@ -1,4 +1,4 @@
-const light = .32
-for (i = 1; i < 10; i++){
-    console.log(i);
-}
+import express from "express";
+import bodyParser from "body-parser";
+import mongoose from "mongoose";
+import cors from "cors";
